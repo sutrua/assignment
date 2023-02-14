@@ -1,0 +1,52 @@
+img{
+    border-radius: 10px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    margin: 25px;
+}
+
+.main{
+    color: black;
+    height: 100px;
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+.sub{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+    font-size: x-large;
+   margin-right: 200px;
+    color: rgb(0, 0, 0);
+    
+
+}
+img{
+    max-height: 40%;
+    max-width: 40%;
+}
+a{
+
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    background-color: rgb(227, 227, 221);
+}
+.about{
+    margin-left: 900px;
+    margin-top: 50px;
+
+    max-height: 30%;
+    max-width: 20%;
+}
+iframe{
+    padding: 50px
+}
+.bdy{
+    background-color: aqua;
+}
+.aswn{
+    width: 600px;
+}
